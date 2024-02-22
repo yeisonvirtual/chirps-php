@@ -18,10 +18,3 @@
 ## Added chirp:
 
 ![added-chirp](https://github.com/yeisonvirtual/chirps-php/blob/main/design/added-chirp.PNG)
-
-
-
-
-## License
-
-The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
